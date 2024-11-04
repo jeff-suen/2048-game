@@ -29,10 +29,6 @@ This is a Python-based emulation of the popular 2048 game. The objective of the 
 - Combine tiles with the same number to reach the target tile: **2048**.
 - The game ends when there are no more valid moves.
 
-## Project Structure
-
-- `game_main.py`: The main file to start the game.
-- `game_function.py`: Contains all the core game logic and functions.
 
 
 
